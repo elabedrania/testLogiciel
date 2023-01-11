@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\CalculBasic.exe
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\CalculBasic.deps.json
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\CalculBasic.runtimeconfig.json
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\CalculBasic.dll
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\CalculBasic.pdb
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.dll
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\refint\CalculBasic.dll
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.pdb
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\CalculBasic.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\ref\CalculBasic.dll

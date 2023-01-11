@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\Testlogiciel.exe
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\Testlogiciel.deps.json
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\Testlogiciel.runtimeconfig.json
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\Testlogiciel.dll
+C:\Users\DELL\source\repos\Testlogiciel\bin\Debug\net6.0\Testlogiciel.pdb
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.dll
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\refint\Testlogiciel.dll
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.pdb
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\Testlogiciel.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Testlogiciel\obj\Debug\net6.0\ref\Testlogiciel.dll

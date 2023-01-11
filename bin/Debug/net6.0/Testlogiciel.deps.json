@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Testlogiciel/1.0.0": {
+        "runtime": {
+          "Testlogiciel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testlogiciel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
